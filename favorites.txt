@@ -1,13 +1,13 @@
-  =========
-   Foods
-  ========= 
+=========
+  Foods
+========= 
 Pizza
-sandwiches
-spagetti
+Sandwiches
+Spagetti
 
-  =========
-   Movies
-  ========= 
+=========
+  Movies
+========= 
 Godfather 1,2,3
 A few good man 
 The intouchables
